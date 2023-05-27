@@ -1,0 +1,6 @@
+Output của câu lệnh sau là gì? (Nhập số)
+a = 3
+def caculate():
+    a = 4
+    print(a+2)
+caculate()

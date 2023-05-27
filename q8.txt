@@ -1,0 +1,7 @@
+Output của dòng lệnh sau là gì?
+N = 2020
+print(int((N+1) / 2))
+a. 1008
+b. 1009
+c. 1010
+d. 1011

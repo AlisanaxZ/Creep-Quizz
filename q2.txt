@@ -1,0 +1,5 @@
+Một số trong hệ nhị phân là 11011 thì trong hệ thập phân là bao nhiêu?
+a. 22
+b. 27
+c. 23
+d. 29

@@ -1,0 +1,5 @@
+
+Output của đoạn code này là gì? (Chỉ nhập vào số)
+An_Age = 10
+Binh_Age = 15
+print(An_Age + Binh_Age)

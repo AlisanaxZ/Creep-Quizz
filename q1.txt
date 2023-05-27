@@ -1,0 +1,5 @@
+Def() là gì?
+a. Tham số
+b. Biến
+c. Hàm
+d. Định nghĩa

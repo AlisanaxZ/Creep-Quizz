@@ -1,0 +1,4 @@
+Output của đoạn code này là gì? (Đánh chính xác output)
+def greet(name):
+    print("Hello, " + name + ". Good morning!")
+greet('Ali')

@@ -1,0 +1,7 @@
+Output của đoạn code này là gì?
+A = [4,6,7,3,5.9]
+print(A[3])
+a. 6
+b. 7
+c. 5
+d. 3

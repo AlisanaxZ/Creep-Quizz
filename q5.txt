@@ -1,0 +1,6 @@
+Câu lệnh: Print("Hello, world")
+Có output là gì?
+a. Hello
+b. World
+c. Hello, world
+d. "Hello, world"

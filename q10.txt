@@ -1,0 +1,7 @@
+Điền vào chỗ trống:
+age = input("Age: ")
+print("My age is",...)
+a. age
+b. AGE
+c. Age
+d. 4
